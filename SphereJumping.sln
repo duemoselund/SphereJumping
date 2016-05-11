@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SphereJumping.CSharp", "SphereJumping.CSharp.csproj", "{995821BA-6602-BBEA-D738-D0EE25C059C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SphereJumping.CSharp.Editor", "SphereJumping.CSharp.Editor.csproj", "{0502BA8C-7540-6469-5251-EDB9BE379722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995821BA-6602-BBEA-D738-D0EE25C059C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995821BA-6602-BBEA-D738-D0EE25C059C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995821BA-6602-BBEA-D738-D0EE25C059C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995821BA-6602-BBEA-D738-D0EE25C059C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0502BA8C-7540-6469-5251-EDB9BE379722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0502BA8C-7540-6469-5251-EDB9BE379722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0502BA8C-7540-6469-5251-EDB9BE379722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0502BA8C-7540-6469-5251-EDB9BE379722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
